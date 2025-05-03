@@ -1,0 +1,1 @@
+slimecatRight, L; slimecatLeft, J; slimecatJump, I; slimecatInteractOne, O; slimecatInteractTwo, U; golemRight, D; golemLeft, A; golemJump, W; golemInteractOne, E; golemInteractTwo, Q
